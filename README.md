@@ -4,6 +4,6 @@ My name is Kristina and I'm a Full Stack Developer who loves to work with JavaSc
 
 ## 📈 Stats
 
-[![Kristina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristina-sparrow&theme=github_dark)](https://github.com/kristina-sparrow/github-readme-stats)
+[![Kristina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristina-sparrow&theme=algolia)](https://github.com/kristina-sparrow/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kristina-sparrow&theme=algolia&date_format=M j[, Y])](https://git.io/streak-stats)
