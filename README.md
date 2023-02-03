@@ -9,21 +9,82 @@ You can find my most noteworthy projects below in the "Pinned" section. Feel fre
 
 ## 🔧 Languages & Tools
 
-<div>
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" title="HTML5" alt="HTML" width="48" height="48"/>
+      <br />
+      HTML5
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"  title="CSS3" alt="CSS" width="48" height="48"/>
+      <br />
+      CSS3
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+      <br />
+      JavaScript
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+      <br />
+      TypeScript
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" title="React" alt="React" width="48" height="48"/>
+      <br />
+      React
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" title="Redux" alt="Redux" width="48" height="48"/>
+      <br />
+      Redux
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
+      <br />
+      SASS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="48" height="48"/>
+      <br />
+      Tailwind
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
+      <br />
+      Bootstrap
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" title="Firebase" alt="Firebase" width="48" height="48"/>
+      <br />
+      Firebase
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
+      <br />
+      NodeJS
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" title="NPM" alt="NPM" width="48" height="48"/>
+      <br />
+      NPM
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
+      <br />
+      Webpack
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
+      <br />
+      Git
+    </td>
+  </tr>
+ </table>
 
 
 
