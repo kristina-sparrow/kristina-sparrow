@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-I'm a self-taught full stack developer who loves to work with JavaScript technologies. I started learning how to code to solve a big problem in my own business (an online rare bookstore) which led to the creation of BookMind.io. Along the way, I became obsessed with the process of learning how to build cool things. Following the Odin Project curriculum, I started out with the basics of HTML, CSS, JavaScript and React. Now I'm currently teaching myself TypeScript, SASS and Redux.
+I'm a self-taught full stack developer who loves to work with JavaScript technologies. I started learning how to code to solve a big problem in my own business (an online rare bookstore), which led to the creation of BookMind.io. Along the way, I became obsessed with the process of learning how to build cool things. Following the Odin Project curriculum, I started out with the basics of HTML, CSS, JavaScript and React. Now I'm currently teaching myself TypeScript, SASS and Redux.
 
 You can find my most noteworthy projects below in the "Pinned" section. Feel free to follow me or reach out to me regarding questions, feedback, criticism (which is much appreciated), job offers or quite literally anything else.
 
