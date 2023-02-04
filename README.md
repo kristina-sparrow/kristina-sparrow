@@ -1,8 +1,8 @@
-## 👋 Hey there
+## 👋 Hey there!
 
-I'm a self-taught full stack developer who loves to work with JavaScript technologies. I started learning how to code to solve a big problem in my own business (an online rare bookstore), which led to the creation of BookMind.io. Along the way, I became obsessed with the process of learning how to build cool things. Following the Odin Project curriculum, I started out with the basics of HTML, CSS, JavaScript and React. Now I'm currently teaching myself TypeScript, SASS and Redux.
+I'm a self-taught full stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I initially learned the basics of HTML, CSS, JavaScript, and React. Currently, I'm teaching myself TypeScript, SASS, and Redux.
 
-You can find my most noteworthy projects below in the "Pinned" section. Feel free to follow me or reach out to me regarding questions, feedback, criticism (which is much appreciated), job offers or quite literally anything else.
+You can find my most noteworthy projects in the "Pinned" section below or on my <a href="https://www.kristinasparrow.com">portfolio website</a>. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
 
 
 
