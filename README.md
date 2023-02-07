@@ -92,6 +92,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
 
 ## 📈 Stats
 
-[![Kristina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristina-sparrow&theme=algolia)](https://github.com/kristina-sparrow/github-readme-stats)
+[![Kristina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristina-sparrow&count_private=true&theme=algolia)](https://github.com/kristina-sparrow/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kristina-sparrow&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
