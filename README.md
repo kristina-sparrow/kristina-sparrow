@@ -25,6 +25,11 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       CSS3
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
+      <br />
+      SASS
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
       <br />
       JavaScript
@@ -44,37 +49,32 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       Redux
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
-      <br />
-      SASS
-    </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="48" height="48"/>
-      <br />
-      Tailwind
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
-      <br />
-      Bootstrap
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" title="Firebase" alt="Firebase" width="48" height="48"/>
-      <br />
-      Firebase
-    </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
       <br />
       NodeJS
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" title="NPM" alt="NPM" width="48" height="48"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
       <br />
-      NPM
+      Express
+    </td>
+        <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+      <br />
+      PostgreSQL
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+      <br />
+      MongoDB
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" title="Firebase" alt="Firebase" width="48" height="48"/>
+      <br />
+      Firebase
     </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
