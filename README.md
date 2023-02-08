@@ -5,7 +5,7 @@
 
 ## 👋 Hello!
 
-I'm a self-taught full stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I initially learned the basics of HTML, CSS, JavaScript, and React. Currently, I'm teaching myself TypeScript, SASS, and Redux.
+I'm a self-taught full stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I started with the basics of HTML, CSS and JavaScript, then taught myself TypeScript, React and Redux. Now I'm diving into backend and learning Node.
 
 You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
 
