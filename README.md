@@ -15,21 +15,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" title="HTML5" alt="HTML" width="48" height="48"/>
-      <br />
-      HTML5
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"  title="CSS3" alt="CSS" width="48" height="48"/>
-      <br />
-      CSS3
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
-      <br />
-      SASS
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
       <br />
       JavaScript
@@ -48,6 +33,21 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" title="Redux" alt="Redux" width="48" height="48"/>
       <br />
       Redux
+    </td>  
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" title="HTML5" alt="HTML" width="48" height="48"/>
+      <br />
+      HTML5
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"  title="CSS3" alt="CSS" width="48" height="48"/>
+      <br />
+      CSS3
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
+      <br />
+      SASS
     </td>
   </tr>
   <tr>
@@ -72,11 +72,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       MongoDB
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" title="Firebase" alt="Firebase" width="48" height="48"/>
-      <br />
-      Firebase
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
       <br />
       Webpack
@@ -86,12 +81,17 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       Git
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="Figma" alt="Figma" width="48" height="48"/>
+      <br />
+      Figma
+    </td>
   </tr>
  </table>
 
 
 ## 📈 Stats
 
-[![Kristina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristina-sparrow&count_private=true&theme=algolia)](https://github.com/kristina-sparrow/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kristina-sparrow&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristina-sparrow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
