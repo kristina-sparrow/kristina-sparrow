@@ -49,11 +49,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       SASS
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="Figma" alt="Figma" width="48" height="48"/>
-      <br />
-      Figma
-    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -90,11 +85,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
       <br />
       Git
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" title="Docker" alt="Docker" width="48" height="48"/>
-      <br />
-      Docker
     </td>
   </tr>
  </table>
