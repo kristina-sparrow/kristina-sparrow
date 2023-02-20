@@ -50,11 +50,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       SASS
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" title="MaterialUI" alt="MaterialUI" width="48" height="48"/>
-      <br />
-      MaterialUI
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="Figma" alt="Figma" width="48" height="48"/>
       <br />
       Figma
@@ -85,11 +80,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" title="Jest" alt="Jest" width="48" height="48"/>
       <br />
       Jest
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/npm-logo.svg" title="npm" alt="npm" width="48" height="48"/>
-      <br />
-      npm
     </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
