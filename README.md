@@ -5,7 +5,7 @@
 
 ## 👋 Hello!
 
-I'm a self-taught full stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I started with the basics of HTML, CSS and JavaScript, then taught myself TypeScript, React and Redux. Now I'm diving into backend and learning Node.
+I'm a self-taught full-stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. I started with the basics of front-end development (following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum), and now I'm diving into backend learning Node, database design and CI/CD.
 
 You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
 
@@ -49,6 +49,16 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       SASS
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" title="MaterialUI" alt="MaterialUI" width="48" height="48"/>
+      <br />
+      MaterialUI
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="Figma" alt="Figma" width="48" height="48"/>
+      <br />
+      Figma
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -72,6 +82,16 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       MongoDB
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" title="Jest" alt="Jest" width="48" height="48"/>
+      <br />
+      Jest
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/npm-logo.svg" title="npm" alt="npm" width="48" height="48"/>
+      <br />
+      npm
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
       <br />
       Webpack
@@ -82,9 +102,9 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       Git
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="Figma" alt="Figma" width="48" height="48"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" title="Docker" alt="Docker" width="48" height="48"/>
       <br />
-      Figma
+      Docker
     </td>
   </tr>
  </table>
