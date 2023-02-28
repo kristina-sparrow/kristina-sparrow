@@ -5,7 +5,7 @@
 
 ## 👋 Hello!
 
-I'm a self-taught full-stack developer with a passion for JavaScript technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io</a>. Along the way, I became passionately invested in the art of building things. I started with the basics of front-end development (following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum), and now I'm diving into back-end development learning Node, database design and CI/CD.
+I'm a self-taught full-stack developer with a passion for web technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. Along the way, I became obsessed with the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I started with the basics of front-end development and now I'm diving into back-end development learning Node, database design and DevOps.
 
 You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
 
@@ -49,6 +49,11 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       SASS
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" title="SASS" alt="SASS" width="48" height="48"/>
+      <br />
+      Figma
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -72,6 +77,11 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       MongoDB
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" title="Jest" alt="Jest" width="48" height="48"/>
+      <br />
+      Bash
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" title="Jest" alt="Jest" width="48" height="48"/>
       <br />
       Jest
@@ -93,5 +103,3 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
 ## 📈 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kristina-sparrow&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristina-sparrow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
