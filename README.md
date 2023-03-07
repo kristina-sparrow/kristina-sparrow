@@ -18,11 +18,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-      <br />
-      JavaScript
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="48" height="48"/>
       <br />
       TypeScript
@@ -36,7 +31,12 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" title="Redux" alt="Redux" width="48" height="48"/>
       <br />
       Redux
-    </td>  
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" title="Next.js" alt="Next.js" width="48" height="48"/>
+      <br />
+      Next.js
+    </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/sass.svg" title="SASS" alt="SASS" width="48" height="48"/>
       <br />
@@ -60,9 +60,9 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
       <br />
-      NodeJS
+      Node.js
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
