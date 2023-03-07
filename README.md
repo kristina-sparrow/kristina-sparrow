@@ -5,9 +5,12 @@
 
 ## 👋 Hello!
 
-I'm a self-taught Full Stack Developer with a passion for web technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. Along the way, I became obsessed with the art of building things. Following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, I started with the basics of frontend development and now I'm diving into backend development learning Node, database design and DevOps.
+I'm a self-taught fullstack developer with a passion for web technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. And I became obsessed with the art of building things along the way. I started with the basics of frontend development by following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, and now I'm diving into backend development learning Node, database design and DevOps.
 
 You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
+
+<a href="https://www.linkedin.com/in/kristina-sparrow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:sparrow.kristinab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 
 ## 🔧 Languages & Tools
