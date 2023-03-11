@@ -69,15 +69,15 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <br />
       Express
     </td>
-        <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
-      <br />
-      PostgreSQL
-    </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
       <br />
       MongoDB
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+      <br />
+      PostgreSQL
     </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" title="Jest" alt="Jest" width="48" height="48"/>
@@ -85,9 +85,9 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       Bash
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" title="Jest" alt="Jest" width="48" height="48"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" title="Python" alt="Python" width="48" height="48"/>
       <br />
-      Jest
+      Python
     </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
