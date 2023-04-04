@@ -5,9 +5,9 @@
 
 ## 👋 Hello!
 
-I'm a self-taught fullstack developer with a passion for web technologies. My coding journey began with the goal of solving a problem in my business, <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. And I became obsessed with the art of building things along the way. I started with the basics of frontend development by following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, and now I'm diving into backend development learning Node, database design and DevOps.
+I'm a self-taught fullstack developer with a passion for building things. My coding journey began with the goal of solving a problem for my <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. I started with the basics of MERN stack development by following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, and now I'm diving into Ruby and Rails.
 
-You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback, criticism (which is highly appreciated), job offers, or simply reaching out to connect.
+You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback (which is highly appreciated), job offers, or simply reaching out to connect.
 
 <a href="https://www.linkedin.com/in/kristina-sparrow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:sparrow.kristinab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
@@ -70,6 +70,16 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       Express
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" title="Ruby" alt="Ruby" width="48" height="48"/>
+      <br />
+      Ruby
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" title="Rails" alt="Rails" width="48" height="48"/>
+      <br />
+      Rails
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
       <br />
       MongoDB
@@ -85,19 +95,9 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       Bash
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" title="Python" alt="Python" width="48" height="48"/>
-      <br />
-      Python
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48"/>
       <br />
       Webpack
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
-      <br />
-      Git
     </td>
   </tr>
  </table>
