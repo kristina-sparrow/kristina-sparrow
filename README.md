@@ -5,7 +5,7 @@
 
 ## 👋 Hello!
 
-I'm a self-taught fullstack developer with a passion for building things. My coding journey began with the goal of solving a problem for my <a href="https://www.sparrowsbookshop.com" target="_blank">an online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. I started with the basics of MERN stack development by following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, and now I'm diving into Ruby and Rails.
+I'm a self-taught fullstack developer with a passion for building things. My coding journey began with the goal of solving a problem for my <a href="https://www.sparrowsbookshop.com" target="_blank">online rare bookstore</a>, which resulted in the creation of <a href="http://www.bookmind.io">BookMind.io (work in progress)</a>. I started with the basics of MERN stack development by following <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a> curriculum, and now I'm diving into Ruby and Rails.
 
 You can find a few noteworthy projects in the "Pinned" section below. I welcome questions, feedback (which is highly appreciated), job offers, or simply reaching out to connect.
 
