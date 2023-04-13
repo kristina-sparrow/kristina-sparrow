@@ -60,16 +60,6 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
-      <br />
-      Node.js
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
-      <br />
-      Express
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" title="Ruby" alt="Ruby" width="48" height="48"/>
       <br />
       Ruby
@@ -78,6 +68,16 @@ You can find a few noteworthy projects in the "Pinned" section below. I welcome 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" title="Rails" alt="Rails" width="48" height="48"/>
       <br />
       Rails
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
+      <br />
+      Node.js
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
+      <br />
+      Express
     </td>
     <td align="center" height="108" width="108">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
